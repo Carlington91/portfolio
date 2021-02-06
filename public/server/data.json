@@ -1,0 +1,78 @@
+{
+  "profile": {
+    "name": "Carlington Ferguson",
+    "occupation": "Full Stack Developer",
+    "description": "testing the waters",
+    "image": "",
+    "bio": "Highly motivated Full Stack Web Developer with over 4 years’ software, web development, SEO, and graphic design experience. Expert in a variety of platforms, languages, and Photoshop. ",
+    "email": "carlingtonferguson@yahoo.com",
+    "phone": "954 501 8505",
+    "address": {
+      "street": "",
+      "city": "Plantation",
+      "state": "Florida",
+      "zip_code": "33322"
+    },
+    "website": "https://carlingtonferguson.com",
+    "resume_download": "https://carlingtonferguson.com/resume",
+    "social": [
+      { "name": "linkedin", "url": "https://www.linkedin.com/" },
+      {
+        "name": "github",
+        "url": "https://github.com/Carlington91?tab=repositories"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Broward College",
+        "degree": "Bachelor's Degree, Information Technology",
+        "date_graduated": "July 2020",
+        "description": "Graduated with Magna Cum Laude"
+      }
+    ],
+    "work": [
+      {
+        "company": "Coast to Coast Healthcare Solutions",
+        "description": ["Design UI for website, test and launched website."]
+      },
+      {
+        "company": "Freelancing",
+        "description": [
+          "Build REST API using Mongo DB, Express.js and Node.js",
+          "Create admin template with React and Flexb0x",
+          "Create a Netflix clone from the TMD API"
+        ]
+      }
+    ],
+
+    "programming_languages": ["HTML", "CSS3", "JavaScript", "PHP"],
+
+    "frameworks": ["React", "Bootstrap", "Expressjs", "Node", "GIT"],
+    "databases": ["MySQL", "Mongo DB", "Firebase"]
+  },
+  "portfolio": {
+    "portfolio_message": "",
+    "projects": [
+      {
+        "title": "Coast to Coast Healthcare (React JS)",
+        "category": "",
+        "image": "ctc.jpg",
+        "url": "https://ctchealthcare.com"
+      },
+      {
+        "title": "NetFlix Clone (React JS)",
+        "category": "",
+        "image": "netflix_clone.jpg",
+        "url": "https://carlington91-netflix-clone.herokuapp.com/"
+      },
+      {
+        "title": "Medix Urgent Care (PHP)",
+        "category": "",
+        "image": "medix.jpg",
+        "url": "https://medixucc.com/"
+      }
+    ]
+  }
+}
